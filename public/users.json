@@ -1,0 +1,26 @@
+[
+	{
+		"name":"Ivan",
+		"lastName":"Ivanov",
+		"position":"Manager",
+		"avatar":"../img/ivan.jpg"
+	},
+	{
+		"name":"David",
+		"lastName":"Davidov",
+		"position":"seller",
+		"avatar":"../img/david.jpg"
+	},
+	{
+		"name":"Katty",
+		"lastName":"Cratty",
+		"position":"engineer",
+		"avatar":"../img/Katty.jpg"
+	},
+	{
+		"name":"Jim",
+		"lastName":"Hendrix",
+		"position":"musician",
+		"avatar":"../img/jim.jpg"
+	}
+]
